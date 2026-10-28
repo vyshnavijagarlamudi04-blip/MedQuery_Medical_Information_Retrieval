@@ -1,0 +1,162 @@
+[
+  {
+    "id": "d164e8ff",
+    "timestamp": "2026-09-28 15:37:35",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 32.09,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "1590869e",
+    "timestamp": "2026-09-28 15:37:31",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 77.24,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "d51580d1",
+    "timestamp": "2026-09-28 11:50:48",
+    "query": "What are common symptoms of diabetes?",
+    "method": "semantic",
+    "top_k": 5,
+    "search_time_ms": 25.52,
+    "top_title": "Hypoglycemia in Diabetic Patients: Pathophysiology and Emergency Action",
+    "top_score": 0.6217
+  },
+  {
+    "id": "f3171a89",
+    "timestamp": "2026-09-28 11:50:44",
+    "query": "What are common symptoms of diabetes?",
+    "method": "bm25",
+    "top_k": 5,
+    "search_time_ms": 3.75,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 1.0
+  },
+  {
+    "id": "107c2be6",
+    "timestamp": "2026-09-28 11:50:39",
+    "query": "What are common symptoms of diabetes?",
+    "method": "bm25",
+    "top_k": 5,
+    "search_time_ms": 1.44,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 1.0
+  },
+  {
+    "id": "1741677c",
+    "timestamp": "2026-09-28 11:50:25",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 45.15,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "9d225e1e",
+    "timestamp": "2026-09-28 11:50:22",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 36.16,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "72149501",
+    "timestamp": "2026-09-28 11:50:17",
+    "query": "What are the symptoms of pneumonia?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 59.95,
+    "top_title": "Aspiration Pneumonia: Risk Factors, Anaerobic Flora, and Clinical Care",
+    "top_score": 0.733
+  },
+  {
+    "id": "0238caa7",
+    "timestamp": "2026-09-28 11:50:12",
+    "query": "What causes hypertension?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 68.95,
+    "top_title": "Secondary Hypertension: Identifiable Causes and Diagnostic Workup",
+    "top_score": 0.7834
+  },
+  {
+    "id": "64a7746b",
+    "timestamp": "2026-09-28 11:48:12",
+    "query": "diabetes symptoms",
+    "method": "hybrid",
+    "top_k": 2,
+    "search_time_ms": 26.59,
+    "top_title": "Gestational Diabetes Mellitus: Maternal-Fetal Considerations and Screening",
+    "top_score": 0.7698
+  },
+  {
+    "id": "9e2b73fe",
+    "timestamp": "2026-09-28 11:47:09",
+    "query": "diabetes symptoms",
+    "method": "hybrid",
+    "top_k": 3,
+    "search_time_ms": 15188.88,
+    "top_title": "Gestational Diabetes Mellitus: Maternal-Fetal Considerations and Screening",
+    "top_score": 0.7698
+  },
+  {
+    "id": "7e9bed81",
+    "timestamp": "2026-09-27 23:43:48",
+    "query": "What causes migraine?",
+    "method": "hybrid",
+    "top_k": 3,
+    "search_time_ms": 36.16,
+    "top_title": "Migraine Headache: Neurovascular Mechanisms and Calcitonin Gene-Related Peptide (CGRP)",
+    "top_score": 0.7139
+  },
+  {
+    "id": "7e30be89",
+    "timestamp": "2026-09-27 23:43:38",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 3,
+    "search_time_ms": 7575.94,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "9ca5ee72",
+    "timestamp": "2026-09-27 23:38:35",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 7621.77,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "47a5d2d2",
+    "timestamp": "2026-09-27 22:02:50",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 7776.73,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  },
+  {
+    "id": "6ddabced",
+    "timestamp": "2026-09-27 21:57:19",
+    "query": "What are common symptoms of diabetes?",
+    "method": "hybrid",
+    "top_k": 5,
+    "search_time_ms": 7676.21,
+    "top_title": "Type 2 Diabetes Mellitus: Overview, Etiology, and Management",
+    "top_score": 0.7368
+  }
+]

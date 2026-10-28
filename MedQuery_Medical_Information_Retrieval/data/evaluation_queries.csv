@@ -1,0 +1,36 @@
+query_id,query,relevant_document_ids
+Q001,What are common symptoms of diabetes?,"DOC_001,DOC_002,DOC_003"
+Q002,What causes high blood pressure and essential hypertension?,"DOC_006,DOC_007,DOC_008"
+Q003,What are common asthma triggers and symptoms?,"DOC_011,DOC_012"
+Q004,How is dengue transmitted and how can it be prevented?,"DOC_018,DOC_019"
+Q005,What are the symptoms and causes of iron deficiency anemia?,DOC_031
+Q006,What causes migraine headaches and what medications are used for treatment?,"DOC_026,DOC_027"
+Q007,What are the symptoms of community-acquired pneumonia?,"DOC_013,DOC_014"
+Q008,How can food poisoning and bacterial contamination be prevented?,"DOC_044,DOC_045"
+Q009,What is the difference between osteoarthritis and rheumatoid arthritis?,"DOC_036,DOC_037"
+Q010,How is malaria diagnosed and what is the recommended treatment?,"DOC_020,DOC_021"
+Q011,What are the clinical features and transmission of pulmonary tuberculosis?,"DOC_022,DOC_023"
+Q012,What causes acute kidney injury and how does it differ from chronic kidney disease?,"DOC_046,DOC_047"
+Q013,What are the warning signs and phases of severe dengue fever?,"DOC_018,DOC_019"
+Q014,How does vitamin B12 deficiency cause anemia and neurological problems?,DOC_032
+Q015,What is diabetic ketoacidosis and how is it managed in emergency care?,"DOC_004,DOC_002"
+Q016,What are the common symptoms and treatment of acute gastritis and peptic ulcers?,"DOC_041,DOC_042"
+Q017,What causes non-alcoholic fatty liver disease and liver cirrhosis?,"DOC_051,DOC_052"
+Q018,What are the symptoms and emergency treatment for acute anaphylaxis?,"DOC_057,DOC_060"
+Q019,How does chronic obstructive pulmonary disease develop and how is it managed?,DOC_015
+Q020,What is the role of vitamin D in bone health and rickets prevention?,"DOC_034,DOC_040"
+Q021,What are the signs of congestive heart failure and fluid overload?,"DOC_010,DOC_009"
+Q022,What causes gout and how is hyperuricemia treated?,DOC_038
+Q023,What are the long-term complications and symptoms of Long COVID?,"DOC_025,DOC_024"
+Q024,What are the symptoms and causes of kidney stones?,DOC_048
+Q025,How is hepatitis B transmitted and prevented by vaccination?,"DOC_053,DOC_054"
+Q026,What are the classic symptoms of Parkinson's disease?,DOC_028
+Q027,How is ischemic stroke identified using the FAST criteria?,DOC_029
+Q028,What is Hashimoto's thyroiditis and how is hypothyroidism treated?,DOC_061
+Q029,What are the diagnostic criteria for metabolic syndrome and obesity?,"DOC_063,DOC_064"
+Q030,What causes celiac disease and why must gluten be avoided?,DOC_066
+Q031,What is the difference between Crohn's disease and ulcerative colitis?,"DOC_067,DOC_068"
+Q032,What are the symptoms and emergency signs of bacterial meningitis?,DOC_074
+Q033,How is pulmonary embolism diagnosed and treated with anticoagulants?,"DOC_076,DOC_085"
+Q034,What is atrial fibrillation and how does it increase stroke risk?,"DOC_081,DOC_029"
+Q035,What are the symptoms and prevention protocol for sepsis and septic shock?,DOC_105

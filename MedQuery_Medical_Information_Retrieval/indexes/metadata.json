@@ -1,0 +1,8 @@
+{
+  "num_chunks": 318,
+  "num_documents": 108,
+  "sbert_model": "all-MiniLM-L6-v2",
+  "built_at": "2026-09-27T16:23:22Z",
+  "build_duration_sec": 14.52,
+  "last_updated": "2026-09-27T18:08:36Z"
+}
